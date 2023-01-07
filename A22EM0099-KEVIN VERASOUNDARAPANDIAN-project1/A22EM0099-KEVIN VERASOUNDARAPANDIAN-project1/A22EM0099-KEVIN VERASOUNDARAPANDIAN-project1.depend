@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1673111930 source:c:\users\user\documents\utm\sem 2 yr 1\semm1013 programming\project 1 c programming\a22em0099-kevin verasoundarapandian-project1\a22em0099-kevin verasoundarapandian-project1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
